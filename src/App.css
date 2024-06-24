@@ -1,0 +1,5 @@
+.GG{
+    background: rgba(248,251,246,0.05);
+-webkit-backdrop-filter: blur(4px);
+backdrop-filter: blur(4px);
+}
